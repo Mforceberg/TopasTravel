@@ -1,0 +1,30 @@
+/* CSS Document */
+
+body {
+	background-color: #34577d;
+}
+
+#italy{
+	margin-left:50%;
+	margin-top:-3%;
+	position:fixed;
+	
+	max-width:2000px;
+	max-height:1200px;
+	width:120%px;
+	height:120%;
+}
+
+#compass{
+	width:200px;
+	margin-left:80%;
+	height:auto;
+}
+
+#whale {
+	margin-top:220%;
+	margin-left:40%;
+	opacity:10%;
+	width:150px;
+	height:auto;
+}
