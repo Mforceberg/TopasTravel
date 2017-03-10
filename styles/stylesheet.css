@@ -1,13 +1,13 @@
 /* CSS Document */
 
 body {
-	background-color: #34577d;
+	background-color: #4f83bc;
 }
 
 #italy{
 	margin-left:50%;
-	margin-top:-3%;
-	position:fixed;
+	margin-top:-5%;
+	position:absolute;
 	
 	max-width:2000px;
 	max-height:1200px;
@@ -15,6 +15,10 @@ body {
 	height:120%;
 }
 
+#logo {
+	position:absolute;
+	max-width:200px;
+}
 #compass{
 	width:200px;
 	margin-left:80%;
@@ -27,4 +31,8 @@ body {
 	opacity:10%;
 	width:150px;
 	height:auto;
+}
+
+#topastitle {
+	font-family: "Trajan Pro 3";
 }
